@@ -1,0 +1,5 @@
+BRANCH_SIM_MODE   = STATIC_JUMP
+
+
+
+ARGS = --brmode=$(BRANCH_SIM_MODE) 
